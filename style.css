@@ -1,0 +1,107 @@
+body {
+	font-family: Agency FB;
+	color: white;
+	font-size: 100%;
+	letter-spacing: 2px;
+	background-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-size: 2.8em;
+}
+
+h2 {
+	font-size: 2.4em;
+}
+p {
+	font-size: 0.9em;
+	line-height: 1.1em;
+	width: 100%; 
+}
+button {
+	color: red;
+	 
+	border-top: 8px solid #a3ceda;
+	border-left: 8px solid #a3ceda;
+	border-right: 8px solid #4f6267;
+	border-bottom: 8px solid #4f6267;
+	
+	padding: 10px 40px;
+	background-color: #C0C0C0;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Agency FB;
+	font-weight: bold;
+	font-size: 1.8em;
+}
+.highlight {
+	font-weight: light;
+	font-style: italic;
+}
+.breakout-box {
+	padding: 8 px;
+	margins: 8 px;
+	background-color: red;
+	float: right;
+}
+
+#text {
+	background-color: white;
+	margin: 0 auto;
+	width: 600px;
+	padding-right: 12px;
+	padding-left: 12px;
+	border-radius: 4px;
+	float: right;
+}
+
+#menu {
+	float: left;
+	width: 80px;
+}
+#video1 {
+	width: 700px;
+	margin: 0 auto;
+}
+
+#image1 {
+	float: right;
+}
+#image2 {
+	float: left;
+}
+#image3 {
+	float: right;
+	position: relative;
+	bottom: 140px;
+}
+#image4 {
+	float: left;
+	position: relative;
+	bottom: 140px;
+}
+#button1 {
+	position: relative;
+	left: 570px;
+	bottom: 400px;
+}
+#button2 {
+	position: relative;
+	left: 425px;
+	bottom: 300px;
+}
+#button3 {
+	position: relative;
+	left: 273px;
+	bottom: 200px;
+}
+#WrapAll {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    overflow:hidden;
+}
+
